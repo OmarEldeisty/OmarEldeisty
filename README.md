@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarEldeisty
 - 👀 I’m interested in Software developement especially AI and backend
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me omreldeisty@gmail.com, 01002447023
 
 <!---
